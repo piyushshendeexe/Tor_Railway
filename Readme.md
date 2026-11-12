@@ -2,6 +2,11 @@
   <img src="tor_rail-logo.png" width="280" alt="TOR_RAIL logo">
 </p>
 
+
+<p align="center">
+  <img src="tor_rail-logo.png" width="280" alt="TOR_RAIL logo">
+</p>
+
 <h1 align="center">TOR_RAIL</h1>
 
 <p align="center"><i>peel the dark web, layer by layer</i></p>
@@ -296,6 +301,29 @@ or real case data. See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md).
+
+## Contributors
+
+Thanks to everyone who helped shape TOR_RAIL.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/v0idR31gn">
+        <img src="https://github.com/v0idR31gn.png?size=100" width="80" alt="v0idR31gn"><br>
+        <sub><b>v0idR31gn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Unkown197">
+        <img src="https://github.com/Unkown197.png?size=100" width="80" alt="Unkown197"><br>
+        <sub><b>Unkown197</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Want to be listed here? Send a pull request, see [Contributing](#contributing).
 
 ## Author
 
