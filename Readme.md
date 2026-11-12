@@ -2,11 +2,6 @@
   <img src="tor_rail-logo.png" width="280" alt="TOR_RAIL logo">
 </p>
 
-
-<p align="center">
-  <img src="tor_rail-logo.png" width="280" alt="TOR_RAIL logo">
-</p>
-
 <h1 align="center">TOR_RAIL</h1>
 
 <p align="center"><i>peel the dark web, layer by layer</i></p>
