@@ -1,0 +1,12 @@
+{
+  "organization": "Example Corporation",
+  "authorization_note": "Replace with an authorized organization and approved monitoring scope.",
+  "domains": ["example.com"],
+  "brands": ["Example"],
+  "subsidiaries": [],
+  "executives": [],
+  "project_codenames": [],
+  "keywords": [],
+  "vendors": [],
+  "regions": []
+}
